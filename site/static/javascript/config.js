@@ -1,0 +1,1 @@
+var SubDomain = 'emails'; var SiteID = '5A1BC86B-936F-442E-9732-2F391B0AF726'; var host = 'https://api.eratest.site';
